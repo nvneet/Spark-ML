@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.apache.spark.sql.api.java.UDF1"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="org.spark_project.dmg.pmml.DataType"/>
+<fullyQualifiedTypeName name="org.apache.spark.sql.types.DataTypes"/>
+<fullyQualifiedTypeName name="org.apache.spark.sql.functions"/>
+<fullyQualifiedTypeName name="org.apache.spark.ml.feature.StringIndexer"/>
+<fullyQualifiedTypeName name="org.apache.spark.ml.feature.IndexToString"/>
+<fullyQualifiedTypeName name="org.apache.spark.ml.feature.VectorAssembler"/>
+<fullyQualifiedTypeName name="org.apache.spark.ml.classification.DecisionTreeClassifier"/>
+<fullyQualifiedTypeName name="org.apache.spark.ml.evaluation.MulticlassClassificationEvaluator"/>
+<fullyQualifiedTypeName name="org.apache.spark.ml.classification.RandomForestClassifier"/>
+<fullyQualifiedTypeName name="org.apache.spark.ml.classification.RandomForestClassificationModel"/>
+<fullyQualifiedTypeName name="org.apache.spark.ml.clustering.KMeans"/>
+<fullyQualifiedTypeName name="org.apache.spark.ml.evaluation.ClusteringEvaluator"/>
+<fullyQualifiedTypeName name="org.apache.spark.ml.recommendation.ALS"/>
+</qualifiedTypeNameHistroy>
